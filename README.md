@@ -13,7 +13,7 @@ An unofficial multiplayer expansion for Mad Island. Survive, build, and explore 
 
 
 ### Trailer / Gameplay Video
-[![SomeFunnyShit](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![SomeFunnyShit](https://i.imgur.com/1CZNgBn.mp4)
 *(Click the image above to watch the gameplay preview)*
 
 ---
