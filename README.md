@@ -9,9 +9,8 @@ An unofficial multiplayer expansion for Mad Island. Survive, build, and explore 
 ### Gameplay Screenshots
 * Please note the mod is just a side-project, hobby, a bet, so it will never be my priority to finish it - I will eventually share code so you can go ham later on but for now. its just this.
 
-| ![BabySteps](https://i.imgur.com/fjgBJTx.png) | ![Synchronized Player2](PASTE_IMAGE_LINK_HERE) |
+![BabySteps](https://i.imgur.com/fjgBJTx.png)
 
-> *Check out the chaos of 4-player co-op!*
 
 ### Trailer / Gameplay Video
 [![SomeFunnyShit](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
