@@ -15,6 +15,10 @@ An unofficial multiplayer expansion for Mad Island. Survive, build, and explore 
 ### Trailer / Gameplay Video
 [![Watch the video](https://i.imgur.com/1CZNgBn.png)](https://i.imgur.com/1CZNgBn.mp4) <br>
 (Character's scale increased because no clothing sync yet so had to censor it somehow)
+With clothing sync:<br>
+[![Watch the video](https://i.imgur.com/9xs2o3x.jpeg)](https://i.imgur.com/aj1gDHh.mp4) <br>
+Click to play videos ^
+
 
 ## ✨ Features
 * **Peer-to-Peer Co-op:** Join friends via Steam or Direct IP.
