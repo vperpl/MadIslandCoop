@@ -29,15 +29,15 @@ Click to play videos ^
 
 ## 🛠 Installation
 1. Download
-2. Extract the contents into your `Mad Island` folder.
-3. Launch the game and look for the **"Multiplayer"** button in the main menu.
-4. It will ask for IP & SaveSlot to sync the start.
+2. Extract the contents into your `Mad Island` Bepeinex\plugins folder.
+3. Launch the game and hit F8 then look for the **"Multiplayer"** button in the main menu.
+4. It will ask for IP either host/join
+   *Optional* Feel free to motivate me anytime: https://paypal.me/cynamonnek even 1$ helps
 
 ---
 
 ## ⚠️ Known Issues
-* Desync can occur if the host has a high ping.
-* Certain physics objects might "jitter" raids.
+Hard to tell, no testers, testing myself, i know all bugs i have met xD
 
 ---
 
