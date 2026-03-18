@@ -1,6 +1,7 @@
 # 🌴 Mad Island: Multiplayer Co-op Mod
 
-An unofficial multiplayer expansion for Mad Island. Survive, build, and explore the island with your friends.
+An unofficial multiplayer expansion for Mad Island. Survive, build, and explore the island with your friends.<br>
+Download: https://github.com/vperpl/MadIslandCoop/releases/tag/Coop
 
 ---
 
