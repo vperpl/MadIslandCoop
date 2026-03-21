@@ -39,6 +39,21 @@ Click to play videos ^
 
 ## ⚠️ Known Issues
 Hard to tell, no testers, testing myself, i know all bugs i have met xD
+For now i synced:
+- Animations
+- Containers items slots & dyes
+- Dance [Q]
+- Added PVP and [R] scenes for bed + R and pvp win + R on man x yona.
+- Added clothing sync
+- World sync objectives
+- Syncing items on map and pick ups.
+- Added and syncing items drop so host -> client & client -> host can trade items in bags or containers
+- Ability to Dye.
+- Many more i don't remember at this point xD
+
+  I DIDN'T SYNC NPCS/MOBS/ENEMIES - YET.
+  WILL DO IT LATER
+  I HAVE SPENT more than 20 hours on it so i don't rly want to sit more on it. will need a break for a week at least.
 
 ---
 
